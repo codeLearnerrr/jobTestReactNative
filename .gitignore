@@ -59,7 +59,7 @@ buck-out/
 /ios/Pods/
 
 /__tests__
-/android
+
 /ios
 .buckconfig
 .eslintrc.js
